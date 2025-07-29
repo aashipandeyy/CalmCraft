@@ -2,10 +2,10 @@ CalmCraft – A Minimal Breathing & Meditation Landing Page
 A minimalist breathing companion for modern chaos
 
 Features
-  Pastel gradient background to set a tranquil tone
-  Animated breathing bubble that expands/contracts in a calming loop
-  “Breathe In. Be Still. Begin Again.” headline for guided mindfulness
-  Fully responsive layout that looks beautiful across devices
+  * Pastel gradient background to set a tranquil tone
+  * Animated breathing bubble that expands/contracts in a calming loop
+  * “Breathe In. Be Still. Begin Again.” headline for guided mindfulness
+  * Fully responsive layout that looks beautiful across devices
 
 🛠 Tech Stack
 HTML
